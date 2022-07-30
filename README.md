@@ -1,4 +1,4 @@
-# Project: Predicting Credit Card Default
+# Project: Predicting Credit Card Default 
 **This project is a classifier to predict if a customer will pay the credit card or default to pay**<br>
 <br>
 The summary of the project is as follows:<br>
